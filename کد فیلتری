@@ -1,0 +1,7 @@
+apt update_y
+apt upgrade -y
+apt update Script
+rm -rf Filter.py
+clone https://github.com /cood-filter-rubika/filter-rubika
+cd filter-rubika
+python filter.py
